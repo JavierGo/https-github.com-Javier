@@ -7,25 +7,25 @@ h1 {
 p {
     color: white;
 }
-#header .navbar {
+header .navbar {
     margin-bottom: 0;
     border-width: 0;
 }
-#header > nav {
+header > nav {
     margin-top: -15px;
     position: fixed;
     z-index: 100;
     width: 100%;
 }
-.navbar-default {
+navbar-default {
     background-color: #fff;
     border-color: transparent;
 }
-@media (min-width: 992px)
-.navbar {
+media (min-width: 992px)
+navbar {
     border-radius: 0;
 }
-.navbar {
+navbar {
     position: relative;
     min-height: 127px;
     margin-bottom: 30px;
