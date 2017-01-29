@@ -7,3 +7,74 @@ h1 {
 p {
     color: white;
 }
+#header .navbar {
+    margin-bottom: 0;
+    border-width: 0;
+}
+#header > nav {
+    margin-top: -15px;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+}
+.navbar-default {
+    background-color: #fff;
+    border-color: transparent;
+}
+@media (min-width: 992px)
+.navbar {
+    border-radius: 0;
+}
+.navbar {
+    position: relative;
+    min-height: 127px;
+    margin-bottom: 30px;
+    border: 1px solid transparent;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+Inherited from body#body
+body {
+    font-family: сircular, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.4;
+    color: #333;
+    background-color: #fff;
+}
+Inherited from html
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+Pseudo ::before element
+.navbar:after, .navbar:before {
+    content: " ";
+    display: table;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+Pseudo ::after element
+.navbar:after {
+    clear: both;
+}
+.navbar:after, .navbar:before {
+    content: " ";
+    display: table;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
