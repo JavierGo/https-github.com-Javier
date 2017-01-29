@@ -1,1 +1,10 @@
-
+@charset "utf-8"; 
+body {
+    margin: 0;
+}
+.heaader {
+  width: 100%; 
+  height: auto;
+  background-color: #eef3f5;
+  padding-top: 24px;
+}
