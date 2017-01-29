@@ -47,6 +47,10 @@ body {
     height: 0;
     border-bottom: 2px solid #a7e0ee;
 }
+.fixed {
+    position: fixed;
+    top: 0;
+}
     
     
     
