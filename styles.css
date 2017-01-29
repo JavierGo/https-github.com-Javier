@@ -12,10 +12,6 @@ div#banner {
     background-repeat: no-repeat;
     animation: animate-background linear 50s infinite;
 }
-@Keyframes animate-background {
-    from { background-position: 120% 70px; }
-    to { background-position: -20% 70px; }
-}
 
 body {
     margin: 0;
