@@ -66,7 +66,7 @@ header a:hover {
     font-weight: bold;
 }
 
-/* Home */
+/* showcase */
 
 #showcase{
     min-height: 400px; 
@@ -84,3 +84,18 @@ header a:hover {
 #showcase p{
     font-size: 20px;
 }
+
+#newsletter {
+    padding; 15px; 
+    color: #ffffff;
+    background: #35424a;
+}
+
+#newsletter h1{
+    float: left;
+}
+
+#newsletter form{
+    float: right;
+}
+    
