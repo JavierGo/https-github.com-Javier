@@ -29,6 +29,15 @@ ul {
     padding-right: 20px;
     color: #ffffff;
 }
+
+.dark{
+    padding: 15px;
+    background: #354248;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 /*Header*/
 header {
     background: #35424a;
