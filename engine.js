@@ -23,6 +23,7 @@ function renderTime() {
   
   var myClock = document.getElementById('clockDisplay');
   myClock.textContent = h + ":" + m + ":" + S + "  " + diem;
+  myClock.innerText = h + ":" + m + ":" + S + "  " + diem; 
   setTimeout('renderTime()',1000);
 }
 renderTime();
