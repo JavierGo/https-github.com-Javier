@@ -20,7 +20,9 @@ function renderTime() {
   if (s < 10) {
     s + "0" + s;
   }
-                       
+  
+  var myClock = document.getElementById('clockDisplay');
+  myClock.textContent = h + ":" + m + ":" + S + "  " + diem;
   setTimeout('renderTime()',1000);
 }
 renderTime();
