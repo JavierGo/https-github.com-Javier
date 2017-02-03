@@ -183,7 +183,9 @@ footer {
     header nav li,
     #newsletter h1,
     #newsletter form,
-    #boxes .box{
+    #boxes .box,
+    article#main-col,
+    aside#sidebar{
        float: none;
        text-align: center;
        width: 100%;
