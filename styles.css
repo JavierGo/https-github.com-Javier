@@ -38,6 +38,18 @@ ul {
     margin-bottom: 10px;
 }
 
+.clockStyle {
+    background-color: #000;
+    border: #999 2px inset;
+    padding: 6px;
+    color: #OFF;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    display: inline;
+}
+
 /*Header*/
 header {
     background: #35424a;
