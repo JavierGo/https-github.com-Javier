@@ -139,6 +139,12 @@ aside#sidebar{
     margin-top: 10px;
 }
 
+/* Mail-col */
+article#main-col{
+    float: left;
+    width: 65%;
+}
+
 footer {
     padding: 20px;
     margin-top: 20px;
