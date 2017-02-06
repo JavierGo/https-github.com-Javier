@@ -186,9 +186,9 @@ footer {
     #boxes .box,
     article#main-col,
     aside#sidebar{
-       float: none;
-       text-align: center;
-       width: 100%;
+    float: none; 
+    text-align: center;
+    width: 100%;
     }
     
     header{
